@@ -185,7 +185,7 @@ This course covers advanced deep learning architectures for NLP, focusing on att
 
 ```
 Natural Language Processing Specialization/
-├── Certification
+├── Certificate
 ├── Course 1 - Natural Language Processing with Classification and Vector Spaces/
 ├── Course 2 - Natural Language Processing with Probabilistic Models/
 ├── Course 3 - Natural Language Processing with Sequence Models/
