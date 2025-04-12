@@ -181,6 +181,18 @@ This course covers advanced deep learning architectures for NLP, focusing on att
 - News article summarizer using Transformer architecture
 - Question-answering system with BERT and T5 models
 
+## 📂 Repository Structure
+
+```
+Natural Language Processing Specialization/
+├── Certification
+├── Course 1 - Natural Language Processing with Classification and Vector Spaces/
+├── Course 2 - Natural Language Processing with Probabilistic Models/
+├── Course 3 - Natural Language Processing with Sequence Models/
+├── Course 4 - Natural Language Processing with Attention Models/
+└── README.md
+```
+
 ## 🔧 Setup & Requirements
 
 - 🐍 Python 3.x  
