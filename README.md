@@ -1,4 +1,4 @@
-# Natural Language Processing Specialization
+# 📖 Natural Language Processing Specialization
 
 [![Course](https://img.shields.io/badge/DeepLearning.AI-Course-blue)](https://www.coursera.org/specializations/deep-learning)
 [![Platform](https://img.shields.io/badge/Platform-Coursera-blueviolet)](https://www.coursera.org)
@@ -40,11 +40,11 @@ Throughout this specialization, you'll work on practical projects that apply NLP
 
 The specialization consists of 5 courses:
 
-### Course 1: Natural Language Processing with Classification and Vector Spaces
+### 📚 Course 1: Natural Language Processing with Classification and Vector Spaces
 
 This course introduces foundational NLP concepts through classification techniques and vector space models. You'll learn to analyze sentiment, discover word relationships, and build a simple translation algorithm.
 
-#### Modules:
+#### 📦 Modules:
 
 **Module 1: Sentiment Analysis with Logistic Regression**
 - Extract features from text into numerical vectors
@@ -70,17 +70,17 @@ This course introduces foundational NLP concepts through classification techniqu
 - Build a simple English to French translation algorithm using pre-computed word embeddings
 - Create efficient document search systems using vector representations
 
-#### Key Projects:
+#### 🔑 Key Projects:
 - Twitter sentiment classifier using logistic regression
 - Naive Bayes implementation for sentiment analysis
 - Word relationship visualization using PCA
 - English-French translation system using word embeddings and LSH
 
-### Course 2: Natural Language Processing with Probabilistic Models
+### 📚 Course 2: Natural Language Processing with Probabilistic Models
 
 This course explores probabilistic approaches to NLP through autocorrect systems, part-of-speech tagging, language modeling, and word embeddings, providing a foundation in both classical and neural network-based NLP techniques.
 
-#### Modules:
+#### 📦 Modules:
 
 **Module 1: Autocorrect**
 - Learn the principles of minimum edit distance and dynamic programming
@@ -106,17 +106,17 @@ This course explores probabilistic approaches to NLP through autocorrect systems
 - Create word embeddings from Shakespeare text
 - Visualize and analyze semantic relationships in embedding space
 
-#### Key Projects:
+#### 🔑 Key Projects:
 - Custom spellchecker implementation using dynamic programming
 - Part-of-speech tagger using Hidden Markov Models
 - Twitter-based autocomplete system with N-gram language models
 - Word2Vec implementation with Continuous Bag-of-Words architecture
 
-### Course 3: Natural Language Processing with Sequence Models
+### 📚 Course 3: Natural Language Processing with Sequence Models
 
 This course explores advanced neural network architectures for NLP, focusing on sequential data processing through RNNs, LSTMs, GRUs, and Siamese networks to build sophisticated text generation and analysis systems.
 
-#### Modules:
+#### 📦 Modules:
 
 **Module 1: Recurrent Neural Networks for Language Modeling**
 - Understand the limitations of traditional language models
@@ -141,17 +141,17 @@ This course explores advanced neural network architectures for NLP, focusing on 
 - Implement contrastive loss functions for similarity learning
 - Evaluate model performance on semantic similarity tasks
 
-#### Key Projects:
+#### 🔑 Key Projects:
 - Shakespeare text generator using RNNs and GRUs
 - Named Entity Recognition system with LSTM architecture
 - Question duplicate detector using Siamese networks
 - Sentiment analysis with neural word embeddings
 
-### Course 4: Natural Language Processing with Attention Models
+### 📚 Course 4: Natural Language Processing with Attention Models
 
 This course covers advanced deep learning architectures for NLP, focusing on attention mechanisms and transformer models to build sophisticated systems for machine translation, text summarization, and question-answering.
 
-#### Modules:
+#### 📦 Modules:
 
 **Module 1: Neural Machine Translation**
 - Understand the limitations of traditional sequence-to-sequence models
@@ -176,7 +176,7 @@ This course covers advanced deep learning architectures for NLP, focusing on att
 - Implement context-aware answer extraction techniques
 - Evaluate QA systems using standard benchmarks
 
-#### Key Projects:
+#### 🔑 Key Projects:
 - English-Portuguese neural machine translator with attention
 - News article summarizer using Transformer architecture
 - Question-answering system with BERT and T5 models
@@ -184,35 +184,45 @@ This course covers advanced deep learning architectures for NLP, focusing on att
 ## 🔧 Setup & Requirements
 
 - 🐍 Python 3.x  
-- NumPy
-- Pandas
-- Matplotlib
-- TensorFlow
-- Trax
-- NLTK
-- Transformers
-- Additional libraries as required by specific assignments
+- 📐 NumPy
+- 📊 Pandas
+- 📈 Matplotlib
+- 🔧 TensorFlow
+- 🚀 Trax
+- 📚 NLTK
+- 🤖 Transformers
+- 📦 Additional libraries as required by specific assignments
 
 ## 📖 How to Use This Repository
 
-This repository serves as a resource for those taking the Deep Learning Specialization or for anyone interested in learning about deep learning. You can use it to:
+This repository serves as a resource for those taking the Natural Language Processing Specialization or for anyone interested in learning about NLP. You can use it to:
 
 - 📂 Reference solutions to assignments  
 - 🧠 Study code examples  
-- 🛠️ Explore practical implementations of deep learning concepts
+- 🛠️ Explore practical implementations of NLP concepts
 
 ## 🔗 Additional Resources
 
 - [DeepLearning.AI](https://www.deeplearning.ai/)
 - [Coursera NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
 - [TensorFlow Documentation](https://www.tensorflow.org/api_docs)
-- [Hugging Face Transformers](https://huggingface.co/transformers/)
+- [Hugging Face Transformers Documentation](https://huggingface.co/transformers/)
 
 ## 👨‍🏫 Instructors
 
-- **Eddy Shyu** - DeepLearning.AI
-- **Łukasz Kaiser** - DeepLearning.AI, Google Brain researcher
-- **Younes Bensouda Mourri** - DeepLearning.AI, Stanford University AI instructor
+- [**Andrew Ng**](https://www.linkedin.com/in/andrewyng/)  
+  - 🧠 Founder of DeepLearning.AI  
+  - 🌐 Co-founder of Coursera  
+  - 🎓 Adjunct Professor at Stanford University
+
+- [**Younes Bensouda Mourri**](https://www.linkedin.com/in/younes-bensouda-mourri-8749b9a9)  
+  - 👨‍🏫 Instructor at DeepLearning.AI  
+  - 🧠 Founder of LiveTech.AI  
+  - 🎓 Lecturer at Stanford University
+
+- [**Łukasz Kaiser**](https://www.linkedin.com/in/lukaszkaiser)  
+  - 👨‍🏫 Instructor at DeepLearning.AI  
+  - 🧪 Staff Research Scientist at Google Brain  
 
 ## ⚠️ Disclaimer
 
